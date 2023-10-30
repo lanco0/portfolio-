@@ -43,34 +43,34 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/hakkitumar/",
+  github: "https://github.com/lanco0",
+  twitter: "https://twitter.com/home",
+  instagram: "https://www.instagram.com/hakki_tumar/",ss
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Internship",
+    Company: `BOTAŞ Natural Gas Transmission III. Regional Directorate`,
+    Location: "Kayseri",
+    Type: "Internship",
+    Duration: "July 2023 - Aug 2023",
+  },
+  {
+    Position: "Game Developer",
+    Company: ` Mindly`,
+    Location: "İstanbul",
+    Type: "Part Time",
+    Duration: "Feb 2023 - May 2023",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `Kayseri Sugar Factory`,
+    Location: "Kayseri",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sep 2019 - June 2020",
   },
 ];
 
