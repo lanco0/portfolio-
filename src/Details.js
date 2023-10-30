@@ -45,7 +45,7 @@ export const personalDetails = {
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/in/hakkitumar/",
   github: "https://github.com/lanco0",
-  twitter: "https://twitter.com/home",
+  twitter: "https://twitter.com/lanco00",
   instagram: "https://www.instagram.com/hakki_tumar/",ss
 };
 
