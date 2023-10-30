@@ -15,7 +15,7 @@
 / Enter your Personal Details here
 export const personalDetails = {
   name: "Hakkı",
-  tagline: "I build things for web",
+  tagline: "I am a game developer",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
