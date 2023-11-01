@@ -1,4 +1,4 @@
-#  Portfolio
+# React Developer Portfolio template
 #### Live Demo https://react-portfolio-v1.netlify.app/
 #### Figma Design https://www.figma.com/community/file/1116246660507537002
 ### Preview ( Dark Mode )
@@ -14,8 +14,8 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Hakkı",
-  tagline: "I am a game developer",
+  name: "Pavan MG",
+  tagline: "I build things for web",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
   Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -24,10 +24,10 @@ export const personalDetails = {
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/in/hakkitumar/",
-  github: "https://github.com/lanco0",
-  twitter: "https://twitter.com/home",
-  instagram: "https://www.instagram.com/hakki_tumar/",
+  linkdein: "https://www.linkedin.com/",
+  github: "https://www.github.com/",
+  twitter: "https://twitter.com/",
+  instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
