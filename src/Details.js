@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.jpg";
+//import profile from "./assets/profile.jpg"; test pp 
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -35,60 +35,60 @@ export const logos = {
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Hakkı",
+  tagline: "I am a game developer",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
-  twitter: "https://twitter.com/",
-  instagram: "https://www.instagram.com/",
+  linkdein: "https://www.linkedin.com/in/hakkitumar/",
+  github: "https://github.com/lanco0",
+  twitter: "https://twitter.com/lanco00",
+  instagram: "https://www.instagram.com/hakki_tumar/",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Internship",
+    Company: `Botaş`,
+    Location: "Kayseri",
+    Type: "Internship",
+    Duration: "Sep 2023 - Dec 2023",
+  },
+  {
+    Position: "Game Developer",
+    Company: `Mindly`,
+    Location: "İstanbul",
+    Type: "Part Time",
+    Duration: "Feb 2023 - May 2023",
   },
   {
     Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `Kayseri Sugar Factory`,
+    Location: "Kayseri",
     Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sep 2019 - Jun 2020",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
+    Position: "Game and Application Academy",
     Company: "Udemy, YouTube, Google, Medium",
     Location: "Online",
     Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Duration: "Dec 2022 - Aug 2023",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
+    Position: "Malatya Turgut Özal Üniversitesi",
+    Company: ``,
+    Location: "Malatya",
     Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Duration: "Sep 2022 - Sep 2024",
   },
 ];
 
@@ -170,6 +170,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "hakkitumar1@gmail.com",
+  phone: "+90 534 691 7829",
 };
