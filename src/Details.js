@@ -5,6 +5,7 @@ import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/techstack/html.png";
 // Tech stack images
+import unity from "./assets/techstack/unity.png";
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
 import sass from "./assets/techstack/sass.png";
@@ -94,6 +95,7 @@ export const eduDetails = [
 
 // Tech Stack and Tools
 export const techStackDetails = {
+  unity:unity
   html: html,
   css: css,
   js: js,

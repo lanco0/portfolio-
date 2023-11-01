@@ -6,7 +6,7 @@ function Footer() {
         Designed and Coded by{" "}
         <a
           className="font-medium"
-          href="https://anco0.in"
+          href="https://lanco0.in"
           target="_blank"
           rel="noreferrer noopener"
         >
