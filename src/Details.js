@@ -8,7 +8,6 @@ import profile from "./assets/techstack/html.png";
 import unity from "./assets/techstack/unity.png";
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
-import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import redux from "./assets/techstack/redux.png";
