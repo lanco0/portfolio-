@@ -95,7 +95,7 @@ export const eduDetails = [
 
 // Tech Stack and Tools
 export const techStackDetails = {
-  unity:unity,
+  unity: unity,
   html: html,
   css: css,
   js: js,
